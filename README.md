@@ -63,7 +63,7 @@ To build a web-based product list that can dynamically filter and display items 
 
 ## Preview
 # Dynamic Product Filter with Dropdown
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/888a8c4e-e13b-46c9-b6d7-0becf96c301c" />
+<img width="1908" height="919" alt="Image" src="https://github.com/user-attachments/assets/6957db8c-1cc2-4f79-8cd7-7e43ca0b0700" />
 
 
 # Interactive SVG Drawing Tool
