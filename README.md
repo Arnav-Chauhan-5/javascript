@@ -91,4 +91,4 @@ To design and build a web-based drawing tool using SVG where users can interacti
 3. Each drawing is stored inside the SVG so multiple shapes can be created.  
 
 ## Preview
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc9f7827-a10b-47c9-9fba-6e9dbfd7a390" />
+<img width="1909" height="920" alt="Image" src="https://github.com/user-attachments/assets/9cc12665-e727-4d1a-b074-d0dd29d60d50" />
